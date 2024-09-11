@@ -41,3 +41,4 @@
 
 ![Canada flag](https://w7.pngwing.com/pngs/28/509/png-transparent-toronto-united-states-t-shirt-flag-of-canada-administrative-divisions-of-canada-canada-flag-canada-city-thumbnail.png)
 ![CN Tower](https://www.torontosom.ca/wp-content/uploads/2023/10/Life-in-Toronto-as-an-International-Student.png)
+![CN Tower](https://www.ccmm.ca/~/media/Images/Publications/2019/Faubourgs-1160x771.png?h=771&la=en&w=1160)
