@@ -8,7 +8,6 @@
 [Foods in Countries](#foods-in-canada)
 [Images of Countries](#images-of-canada)
 
-
 # Top Countries
 
 # Canada
@@ -19,6 +18,7 @@
 - ALBERTA
 - QUEBEC
 - BRITISH COLUMBIA
+- NOVA SCOTIA
 
 ## PLACES OF INTEREST
 
