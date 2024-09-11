@@ -21,8 +21,12 @@
 6. Vancouver Island
 
 
-# Foods in Canada
+## Foods in Canada
 
 [poutine](https://canadianfoodfocus.org/in-your-kitchen/classic-canadian-dishes/)
 [Lobster](https://canadianfoodfocus.org/in-your-kitchen/classic-canadian-dishes/)
 [Donairs](https://canadianfoodfocus.org/in-your-kitchen/classic-canadian-dishes/)
+
+## Images of Canada
+
+![Canada flag](https://w7.pngwing.com/pngs/28/509/png-transparent-toronto-united-states-t-shirt-flag-of-canada-administrative-divisions-of-canada-canada-flag-canada-city-thumbnail.png)
