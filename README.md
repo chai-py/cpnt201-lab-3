@@ -8,7 +8,6 @@
 [Foods in Countries](#foods-in-canada)
 [Images of Countries](#images-of-canada)
 
-
 # Top Countries
 
 # Canada
@@ -19,6 +18,7 @@
 - ALBERTA
 - QUEBEC
 - BRITISH COLUMBIA
+- NOVA SCOTIA
 
 ## PLACES OF INTEREST
 
@@ -29,6 +29,7 @@
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
 7. Montreal
+7. Royal Ontario Museum
 
 ## Foods in Canada
 
@@ -39,3 +40,4 @@
 ## Images of Canada
 
 ![Canada flag](https://w7.pngwing.com/pngs/28/509/png-transparent-toronto-united-states-t-shirt-flag-of-canada-administrative-divisions-of-canada-canada-flag-canada-city-thumbnail.png)
+![CN Tower](https://www.torontosom.ca/wp-content/uploads/2023/10/Life-in-Toronto-as-an-International-Student.png)
