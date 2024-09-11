@@ -1,5 +1,14 @@
 # cpnt201-lab-3
 
+## Table of Contents
+
+[Countries](#top-countries)
+[Provinces](#list-of-provinces)
+[Places of Interest](#places-of-interest)
+[Foods in Countries](#foods-in-canada)
+[Images of Countries](#images-of-canada)
+
+
 # Top Countries
 
 # Canada
@@ -19,7 +28,6 @@
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
-
 
 ## Foods in Canada
 
