@@ -29,7 +29,9 @@
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
 7. Montreal
-8. Royal Ontario Museum in Toronto
+7. Royal Ontario Museum
+8. ontario
+
 
 ## Foods in Canada
 
