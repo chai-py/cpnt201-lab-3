@@ -28,6 +28,7 @@
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
+7. Montreal
 
 ## Foods in Canada
 
