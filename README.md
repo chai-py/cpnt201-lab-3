@@ -22,7 +22,7 @@
 
 ## PLACES OF INTEREST
 
-1. Banff
+1. Banff in canmore
 2. Jasper
 3. Niagara Falls
 4. CN TOWER
@@ -30,6 +30,7 @@
 6. Vancouver Island
 7. Montreal
 8. Royal Ontario Museum in Toronto
+9.
 
 ## Foods in Canada
 
