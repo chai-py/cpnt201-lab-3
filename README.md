@@ -12,26 +12,26 @@
 
 # Canada
 
-## LIST OF the PROVINCES
+## LIST OF PROVINCES
 
 - ONTARIO
 - ALBERTA
 - QUEBEC
 - BRITISH COLUMBIA
 - NOVA SCOTIA
+-
 
 ## PLACES OF INTEREST
 
-1. Banff
-2. Jasper
+1. Banff in Alberta
+2. Jasper in Alberta
 3. Niagara Falls
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
 7. Montreal
-7. Royal Ontario Museum
-8. ontario
-
+8. Royal Ontario Museum
+9. ontario
 
 ## Foods in Canada
 
