@@ -22,7 +22,7 @@
 
 ## PLACES OF INTEREST
 
-1. Banff
+1. Banff in Alberta
 2. Jasper
 3. Niagara Falls
 4. CN TOWER
