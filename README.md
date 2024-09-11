@@ -8,7 +8,7 @@
 [Foods in Countries](#foods-in-canada)
 [Images of Countries](#images-of-canada)
 
-# Top Countries
+# Top Countries in the World
 
 # Canada
 
@@ -28,7 +28,8 @@
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
-7. Royal Ontario Museum
+7. Montreal
+8. Royal Ontario Museum in Toronto
 
 ## Foods in Canada
 
