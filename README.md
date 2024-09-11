@@ -39,3 +39,4 @@
 ## Images of Canada
 
 ![Canada flag](https://w7.pngwing.com/pngs/28/509/png-transparent-toronto-united-states-t-shirt-flag-of-canada-administrative-divisions-of-canada-canada-flag-canada-city-thumbnail.png)
+![CN Tower](https://www.torontosom.ca/wp-content/uploads/2023/10/Life-in-Toronto-as-an-International-Student.png)
