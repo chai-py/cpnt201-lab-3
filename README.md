@@ -22,15 +22,23 @@
 
 ## PLACES OF INTEREST
 
+<<<<<<< HEAD
 1. Banff in canmore
+=======
+1. Banff in Alberta
+>>>>>>> 8c81e3a04b5aae45ff8e9da2cb3734e427a415ed
 2. Jasper
 3. Niagara Falls
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
 7. Montreal
+<<<<<<< HEAD
 8. Royal Ontario Museum in Toronto
 9.
+=======
+8. Royal Ontario Museum in Toronto 
+>>>>>>> 8c81e3a04b5aae45ff8e9da2cb3734e427a415ed
 
 ## Foods in Canada
 
