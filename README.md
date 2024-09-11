@@ -8,7 +8,7 @@
 [Foods in Countries](#foods-in-canada)
 [Images of Countries](#images-of-canada)
 
-# Top Countries
+# Top Countries in the World
 
 # Canada
 
