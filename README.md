@@ -23,13 +23,13 @@
 ## PLACES OF INTEREST
 
 1. Banff in Alberta
-2. Jasper
+2. Jasper in Alberta
 3. Niagara Falls
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
 7. Montreal
-8. Royal Ontario Museum in Toronto 
+8. Royal Ontario Museum in Toronto
 
 ## Foods in Canada
 
