@@ -19,3 +19,10 @@
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
+
+
+# Foods in Canada
+
+[poutine](https://canadianfoodfocus.org/in-your-kitchen/classic-canadian-dishes/)
+[Lobster](https://canadianfoodfocus.org/in-your-kitchen/classic-canadian-dishes/)
+[Donairs](https://canadianfoodfocus.org/in-your-kitchen/classic-canadian-dishes/)
