@@ -24,7 +24,7 @@
 
 1. Banff in canmore
 2. Jasper in canada
-3. Niagara Falls
+3. Niagara Falls in canada
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
