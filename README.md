@@ -29,7 +29,7 @@
 4. CN TOWER
 5. NOTRE-DAM-BASSILICA
 6. Vancouver Island
-7. Montreal
+7. Montreal in Quebec
 8. Royal Ontario Museum
 9. ontario
 
