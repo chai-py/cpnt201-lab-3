@@ -31,7 +31,7 @@
 6. Vancouver Island
 7. Montreal in Quebec
 8. Royal Ontario Museum
-9. ontario
+9. ontario is a province
 
 ## Foods in Canada
 
